@@ -1,0 +1,66 @@
+# created by virtualenv automatically
+*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file (this is usually created by your IDE)
+.idea/
+
+# Environment variables file
+.env
+
+# Compiled Python files
+*.pyc
+
+# Dependency directories
+venv/
+env/
+env_bak/
+
+# Flask specific
+instance/
+webapp.egg-info/
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+
+# Translation files
+translations/
+
+# SQLite database file
+*.db
+
+# IPython
+.ipython/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# Environments
+.env
+/.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# .vscode
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
